@@ -4,8 +4,11 @@ The model assists farmers in determining the most suitable crops to cultivate ba
 
 # Features
 Crop Recommendation: The model provides crop recommendations for specific fields or regions, taking into account multiple agricultural factors.
+
 Data Analysis: The notebook includes data exploration and analysis to better understand the dataset and agricultural parameters.
+
 Machine Learning: Machine learning algorithms are applied to predict suitable crops, making it easier for farmers to make informed decisions.
+
 Visualization: Visualizations are included to help in understanding the relationships between different factors and the recommended crops.
 Prerequisites
 
